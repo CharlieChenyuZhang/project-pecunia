@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## chart example
+https://react-chartjs-2.js.org/examples/doughnut-chart
+
+## budget category
+https://www.quicken.com/blog/budget-categories
+
+
+## Material UI
+https://mui.com/material-ui/react-button/
 ## Available Scripts
 
 In the project directory, you can run:
